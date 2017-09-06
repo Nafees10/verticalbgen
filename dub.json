@@ -1,0 +1,12 @@
+{
+	"name": "verticalbgen",
+	"authors": [
+		"Nafees Hassan"
+	],
+	"dependencies": {
+		"utils": "~>0.1.6"
+	},
+	"description": "A program to generate random background with vertical lines",
+	"copyright": "Copyright © 2017, Nafees Hassan",
+	"license": "MIT"
+}
